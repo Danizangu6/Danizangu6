@@ -1,16 +1,18 @@
-## Hi there 👋
+# Data Engineering & Data Analysis Projects – Daniela Zanguña Parra ✨✨✨
 
-<!--
-**Danizangu6/Danizangu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains projects related to **Data Engineering** and **Data Analysis**, focused on working with data from ingestion to analysis.
 
-Here are some ideas to get you started:
+The projects here involve:
+- Working with **Python** and **SQL**
+- Data cleaning, transformation, and exploration
+- Handling structured datasets and relational databases
+- Automating simple data workflows and analysis tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository serves as a space to:
+- Apply data concepts to concrete problems
+- Develop and refine technical skills through real use cases
+- Build a consistent body of work in data-related roles
+
+Some projects may be iterated or expanded over time as my approach and understanding evolve.## Hi there 👋
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
