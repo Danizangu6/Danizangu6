@@ -3,7 +3,7 @@
 This repository contains projects related to **Data Engineering** and **Data Analysis**, focused on working with data from ingestion to analysis.
 
 The projects here involve:
-- Working with **Python** and **SQL**
+- Working with **Python, XML, PowerBI** and **SQL**
 - Data cleaning, transformation, and exploration
 - Handling structured datasets and relational databases
 - Automating simple data workflows and analysis tasks
